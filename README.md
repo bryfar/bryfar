@@ -193,7 +193,7 @@ That combination shapes how I build:
 
 ### Workflow
 
-Research → AI Mockup → OpenCode / Claude / Antigravity → Test → Publish
+`Research` · `AI Mockup` · `OpenCode / Claude / Antigravity` · `Test` · `Publish`
 
 ---
 
