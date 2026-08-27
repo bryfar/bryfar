@@ -193,7 +193,7 @@ That combination shapes how I build:
 
 ### Workflow
 
-`Figma` · `Cursor` · `GitHub` · `Google AI Studio` · `Vibe Coding`
+Research → AI Mockup → OpenCode / Claude / Antigravity → Test → Publish
 
 ---
 
