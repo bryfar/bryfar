@@ -1,62 +1,99 @@
 <div align="center">
 
-# Hey, I'm Bryan 👋
+# Hey, I'm Bryan
 
 ### Design Engineer · AI Builder
 
 **I design, build and ship digital products at the intersection of design, code & AI.**
 
-<br>
-
-[Portfolio] · [LinkedIn] · [Email]
+🇵🇪 Lima, Peru
 
 <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=bryfar\&style=flat-square\&color=grey)
+<a href="https://cmdeboraservices.my.canva.site/portafolio-bryan-farfan-llaulle/#home">
+<img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/bryan-farfan-llaulle/">
+<img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/bryfar">
+<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 </div>
 
 ---
 
-## ✦ Currently building
+## ◈ About
 
-I'm exploring what happens when **design, engineering and AI become one workflow.**
+I'm a **Product Designer turned Design Engineer**, currently exploring the intersection of **AI, frontend engineering and product design**.
 
-```text
-🤖  AI-native products
-🎨  Design systems
-⚡  React / Next.js interfaces
-🧠  LLM-powered experiences
-🛠️  Developer tools & experiments
-```
+I enjoy taking ideas from **concept → interface → code → working product**.
+
+* ◇ Product design, UX/UI & design systems
+* ◇ Frontend engineering & creative development
+* ◇ AI-native products, LLMs & agents
+* ◇ Design-to-code workflows
+* ◇ Prototyping, shipping & building in public
+* ◇ Based in Lima, Peru 🇵🇪
+
+> **I don't just design products. I like building them.**
 
 ---
 
-## 🚀 Selected work
+## ◆ What I'm building
+
+```text
+Design Engineering    ████████████████████░
+AI Products            ██████████████████░░
+Creative Development   ████████████████░░░░
+Developer Tools        ██████████████░░░░░░
+Open Source            ████████████░░░░░░░░
+```
+
+Currently exploring:
+
+**AI-native interfaces · LLMs · AI agents · React · Next.js · Design Systems · Developer Tools**
+
+---
+
+## ◆ Selected projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🧠 Notiqo
+### ◇ Buildev
 
-An AI-powered product exploring how startups and teams can work smarter.
+**AI-native design-to-code platform**
 
-**Product · AI · UX**
+Visual canvas + IDE workflows, multi-framework code export and AI-powered development.
 
-→ `notiqoapp.com`
+`TypeScript` `AI` `Design Tools`
+
+<br>
+
+<a href="https://github.com/bryfar/Buildev">
+<img src="https://img.shields.io/badge/Explore-111111?style=flat-square&logo=github&logoColor=white" />
+</a>
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🎬 Open-Studio
+### ◇ Open-Studio
 
-A browser-based video editor built for creating and editing directly on the web.
+**Browser-based video editor**
 
-**TypeScript · React · Web**
+A powerful web video editor with timeline, multi-track editing, screen recording, motion graphics, keyframes and video export.
 
-→ [Explore project](../../tree/main)
+`TypeScript` `Web` `Creative Tools`
+
+<br>
+
+<a href="https://github.com/bryfar/Open-Studio">
+<img src="https://img.shields.io/badge/Explore-111111?style=flat-square&logo=github&logoColor=white" />
+</a>
 
 </td>
 </tr>
@@ -64,25 +101,35 @@ A browser-based video editor built for creating and editing directly on the web.
 <tr>
 <td width="50%" valign="top">
 
-### 🏛️ Tribuna
+### ◇ Stark
 
-A digital product exploring civic technology, participation and better public experiences.
+**Open-source coding agent for Linux**
 
-**Product · UX · Frontend**
+Exploring developer tools, local workflows and AI-assisted software development.
 
-→ [Explore project](../../tree/main)
+`JavaScript` `AI` `Developer Tools`
+
+<br>
+
+<a href="https://github.com/bryfar/stark">
+<img src="https://img.shields.io/badge/Explore-111111?style=flat-square&logo=github&logoColor=white" />
+</a>
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🧪 AI Lab
+### ◇ Experiments
 
-Small experiments exploring LLMs, AI interfaces, agents and new ways of building software.
+Small experiments where I explore new interfaces, AI workflows, creative coding and product ideas.
 
-**AI · LLMs · Prototyping**
+`AI` `UX` `Prototyping` `Code`
 
-→ [Explore repositories](../../repositories)
+<br>
+
+<a href="https://github.com/bryfar?tab=repositories">
+<img src="https://img.shields.io/badge/View_all-111111?style=flat-square&logo=github&logoColor=white" />
+</a>
 
 </td>
 </tr>
@@ -90,7 +137,7 @@ Small experiments exploring LLMs, AI interfaces, agents and new ways of building
 
 ---
 
-## 🧭 My path
+## ⌁ My path
 
 ```text
 Marketing
@@ -104,64 +151,66 @@ Design Engineering
 AI Engineering
 ```
 
-I started by understanding **people, communication and business**.
+My background started in **marketing and communication**, moved into **UX/UI and product design**, and is now evolving toward **design engineering and AI product development**.
 
-Then I moved into designing digital products.
+That combination shapes how I build:
 
-Now I'm learning to build the systems behind those experiences — and exploring how **AI changes the way products are designed and built.**
+**Understand the problem → design the experience → build the interface → integrate intelligence → ship.**
 
 ---
 
-## 🧰 Toolbox
+## ⌘ Tech & tools
 
 ### Design
 
-![Figma](https://img.shields.io/badge/Figma-111111?style=flat-square\&logo=figma\&logoColor=white)
-![Design Systems](https://img.shields.io/badge/Design%20Systems-111111?style=flat-square)
-![UX](https://img.shields.io/badge/UX-111111?style=flat-square)
+<p>
+<img src="https://skillicons.dev/icons?i=figma,ai,ps" />
+</p>
 
-### Engineering
+`UX/UI` · `Design Systems` · `Prototyping` · `Accessibility`
 
-![TypeScript](https://img.shields.io/badge/TypeScript-111111?style=flat-square\&logo=typescript\&logoColor=white)
-![React](https://img.shields.io/badge/React-111111?style=flat-square\&logo=react\&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-111111?style=flat-square\&logo=next.js\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-111111?style=flat-square\&logo=python\&logoColor=white)
+### Frontend & Engineering
 
-### AI
+<p>
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,html,css" />
+</p>
 
-![LLMs](https://img.shields.io/badge/LLMs-111111?style=flat-square)
-![AI SDKs](https://img.shields.io/badge/AI%20SDKs-111111?style=flat-square)
-![AI Agents](https://img.shields.io/badge/Agents-111111?style=flat-square)
+### AI & Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,git,github,vscode" />
+</p>
+
+`LLMs` · `AI SDKs` · `AI Agents` · `Prompt Engineering`
 
 ### Workflow
 
-![Git](https://img.shields.io/badge/Git-111111?style=flat-square\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-111111?style=flat-square\&logo=github\&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-111111?style=flat-square)
+`Figma` · `Cursor` · `GitHub` · `Google AI Studio` · `Vibe Coding`
 
 ---
 
-## ✦ What I care about
+## ◇ What I care about
 
 > **Good software should feel obvious.**
 
-* Thoughtful interfaces
-* Accessible experiences
-* Design systems that scale
-* Developer experience
-* AI that actually solves problems
-* Turning ideas into working products
-* Shipping instead of endlessly planning
+* → Clear product thinking
+* → Interfaces that reduce cognitive load
+* → Accessible experiences
+* → Design systems that scale
+* → AI that solves real problems
+* → Fast iteration
+* → Developer experience
+* → Shipping over endlessly planning
 
 ---
 
-## 📊 GitHub
+## ◌ GitHub activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=bryfar&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="165"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=bryfar&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bryfar&layout=compact&hide_border=true&theme=transparent" height="165"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bryfar&layout=compact&hide_border=true&theme=transparent" />
 
 </div>
 
@@ -173,10 +222,12 @@ Now I'm learning to build the systems behind those experiences — and exploring
 
 <br>
 
-`Design × Code × AI`
+`DESIGN × CODE × AI`
 
-<br>
+<br><br>
 
-<sub>Currently turning ideas into products.</sub>
+<a href="https://github.com/bryfar?tab=repositories">
+<img src="https://img.shields.io/badge/Explore_my_work-111111?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 </div>
