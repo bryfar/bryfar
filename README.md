@@ -8,7 +8,7 @@
 
 <div align="center">
 
-# Hey, I'm Bryan
+# Hey, I'm Bryan Farfan
 
 ### Design Engineer · AI Builder
 
