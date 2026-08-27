@@ -1,4 +1,12 @@
 <div align="center">
+  <img
+    src="./assets/untitled.png"
+    width="100%"
+    alt="Bryan Farfan — Design Engineer · AI Builder"
+  />
+</div>
+
+<div align="center">
 
 # Hey, I'm Bryan
 
