@@ -216,9 +216,9 @@ That combination shapes how I build:
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=bryfar&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" />
+<img height="170" src="https://github-stats-extended.vercel.app/api?username=bryfar&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bryfar&layout=compact&hide_border=true&theme=transparent" />
+<img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=bryfar&layout=compact&hide_border=true&theme=transparent" />
 
 </div>
 
